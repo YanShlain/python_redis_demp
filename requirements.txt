@@ -1,2 +1,4 @@
 mysqlclient==2.0.3
 redis==3.5.3
+rejson==0.5.4
+six==1.15.0
